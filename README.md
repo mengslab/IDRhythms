@@ -1,7 +1,7 @@
+
 # IDRhythms v2
 
-IDRhythms v2 introduces Matrix pencil, RAIN, JTK-like, Cosinor, Harmonic regression, FFT, ARSER-like, Wavelet, Lomb-Scargle and Autocorrelation into the main workflow together.
-Corresponding Author & Copyright (c) 2026 Dr. Huan Meng, huan.meng@gmail.com
+IDRhythms v2 reintroduces Matrix pencil, JTK-like, ARSER-like, and RAIN into the main workflow together with the previously available methods.
 
 ## Included methods
 - Matrix pencil
