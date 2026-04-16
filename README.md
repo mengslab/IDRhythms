@@ -1,6 +1,6 @@
 
 IDRhythms is a data-aware computational framework for robust rhythmicity analysis in biological time-series data. It integrates multiple complementary algorithms with a unified workflow for discovery, comparison, benchmarking, and validation of oscillatory signals.
-This validation release (v2.1) establishes IDRhythms as a foundation platform for publication and grant applications, combining methodological rigor with reproducible outputs and interpretable visualizations.
+This validation release (v2) establishes IDRhythms as a foundation platform for publication and grant applications, combining methodological rigor with reproducible outputs and interpretable visualizations.
 
 Key Features
 
