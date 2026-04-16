@@ -63,6 +63,7 @@ Single-cell + bulk deconvolution integration (BayesRhythm)
 Multi-condition trajectory-aware analysis
 AI-assisted model selection and interpretation
 
+Corresponding Author & Copyright (c) 2026 Dr. Huan Meng, huan.meng@gmail.com
 
 # IDRhythms v2
 
